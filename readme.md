@@ -1,5 +1,7 @@
 # ECE408/CS483 Final Project
 
+Please refer to `report.pdf` and `custom` folder for detail code and implementation.
+
 ## Introduction
 
 This is the skeleton code for the Fall 2021 ECE408 / CS483 / CSE408 course project.
